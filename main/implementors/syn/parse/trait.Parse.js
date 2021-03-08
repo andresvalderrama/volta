@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["volta_layout_macro"] = [{"text":"impl Parse for Ast","synthetic":false,"types":[]},{"text":"impl Parse for LayoutStruct","synthetic":false,"types":[]},{"text":"impl Parse for Directory","synthetic":false,"types":[]},{"text":"impl Parse for FieldPrefix","synthetic":false,"types":[]},{"text":"impl Parse for FieldContents","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,4 @@
+(function() {var implementors = {};
+implementors["volta"] = [{"text":"impl PartialOrd&lt;PackageManagerKind&gt; for PackageManagerKind","synthetic":false,"types":[]}];
+implementors["volta_core"] = [{"text":"impl PartialOrd&lt;PlatformSpec&gt; for PlatformSpec","synthetic":false,"types":[]},{"text":"impl PartialOrd&lt;ActivityKind&gt; for ActivityKind","synthetic":false,"types":[]},{"text":"impl PartialOrd&lt;PackageManager&gt; for PackageManager","synthetic":false,"types":[]},{"text":"impl PartialOrd&lt;PackageConfig&gt; for PackageConfig","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

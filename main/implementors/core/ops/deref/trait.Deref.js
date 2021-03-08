@@ -1,0 +1,5 @@
+(function() {var implementors = {};
+implementors["validate_npm_package_name"] = [{"text":"impl Deref for SCOPED_PACKAGE","synthetic":false,"types":[]},{"text":"impl Deref for SPECIAL_CHARS","synthetic":false,"types":[]},{"text":"impl Deref for BLACKLIST","synthetic":false,"types":[]},{"text":"impl Deref for BUILTINS","synthetic":false,"types":[]}];
+implementors["volta"] = [{"text":"impl Deref for WRAPPER","synthetic":false,"types":[]}];
+implementors["volta_core"] = [{"text":"impl Deref for REL_PATH","synthetic":false,"types":[]},{"text":"impl Deref for REL_PATH_PARENT","synthetic":false,"types":[]},{"text":"impl Deref for VOLTA_HOME","synthetic":false,"types":[]},{"text":"impl Deref for VOLTA_INSTALL","synthetic":false,"types":[]},{"text":"impl Deref for REQUIRED_NPM_VERSION","synthetic":false,"types":[]},{"text":"impl Deref for LOCK_STATE","synthetic":false,"types":[]},{"text":"impl Deref for TOOL_SPEC_PATTERN","synthetic":false,"types":[]},{"text":"impl Deref for HAS_VERSION","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

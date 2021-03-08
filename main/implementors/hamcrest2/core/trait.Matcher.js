@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["test_support"] = [{"text":"impl Matcher&lt;ProcessBuilder&gt; for Execs","synthetic":false,"types":[]},{"text":"impl&lt;'a&gt; Matcher&lt;&amp;'a mut ProcessBuilder&gt; for Execs","synthetic":false,"types":[]},{"text":"impl Matcher&lt;Output&gt; for Execs","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
